@@ -1,2 +1,2 @@
-# pyton-portfolio
+# python-portfolio
 Projets développés en Python
